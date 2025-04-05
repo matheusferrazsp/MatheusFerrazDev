@@ -1,13 +1,12 @@
 # 👨🏻‍💻 Matheus Ferraz
 
-*`Desenvolvedor FullStack`*
+_`Desenvolvedor FullStack`_
 
-Me chamo Matheus Ferraz, tenho 27 anos e sou de São Paulo. Atuo há 4 anos como desenvolvedor FullStack autônomo. Minha principal área de atuação foi no marketing focado no desenvolvimento de sites institucionais. 
+Me chamo Matheus Ferraz, tenho 27 anos e sou de São Paulo. Atuo há 4 anos como desenvolvedor FullStack autônomo. Minha principal área de atuação foi no marketing focado no desenvolvimento de sites institucionais.
 
 Atualmente estou cursando engenharia de software com previsão de término em 2029.
 
 Para conferir meu portfólio e obter mais informações acesse [Meu site](https://matheusferrazdev.com.br).
-
 
 ---
 
@@ -37,7 +36,6 @@ Para conferir meu portfólio e obter mais informações acesse [Meu site](https:
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-
 <img 
     align= "left"
     alt="css"
@@ -45,7 +43,6 @@ Para conferir meu portfólio e obter mais informações acesse [Meu site](https:
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
-
 
 <img
     align= "left"
@@ -109,16 +106,14 @@ Para conferir meu portfólio e obter mais informações acesse [Meu site](https:
 ---
 
 ### 📊 Estatísticas
-          
 
 <img
     align="left"
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px"
-    src="https://github-readme-stats.vercel.app/api?username=matheusferrazdev&show_icons=true&theme=transparent&locale=pt-BR"
+    src="https://github-readme-stats.vercel.app/api?username=matheusferrazdev&show_icons=true&theme=transparent&locale=pt-BR&include_all_commits"
 />
-
 
 <img
     align="left"
@@ -127,4 +122,3 @@ Para conferir meu portfólio e obter mais informações acesse [Meu site](https:
     style="padding-right: 10px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusferrazdev&theme=transparent&locale=pt-BR&custom_title=Tecnologias"
 />
-          
