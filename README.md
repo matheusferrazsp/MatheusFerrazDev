@@ -81,14 +81,6 @@ Para conferir meu portfólio e obter mais informações acesse [Meu site](https:
     alt="css"
     width="30px"
     style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"           
-/>
-
-<img
-    align= "left"
-    alt="css"
-    width="30px"
-    style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"           
 />
 
